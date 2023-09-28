@@ -5,3 +5,13 @@ Implemented algorithms:
 * K-Means
 * DBSCAN
 * Hierarchial Clustering
+
+Distibutions:
+
+* Blobs
+* Moons
+* Circles
+
+Among these models, DBSACN worked best on all three generated distributions by not only identifying the clusters, but also detecting the outliers.
+
+
