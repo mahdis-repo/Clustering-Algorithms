@@ -6,7 +6,7 @@ Implemented algorithms:
 * DBSCAN
 * Agglomerative Clustering
 
-Distibutions:
+Distributions:
 
 * Blobs
 * Moons
