@@ -4,7 +4,7 @@ Implemented algorithms:
 
 * K-Means
 * DBSCAN
-* Aggromerative Clustering
+* Agglomerative Clustering
 
 Distibutions:
 
